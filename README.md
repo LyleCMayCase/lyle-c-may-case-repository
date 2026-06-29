@@ -1,5 +1,4 @@
-# The-Lyle-C.-May-Case-Repository
-Public court filings, research materials, and reference documents relating to the case of Lyle C. May.
+
 # The Lyle C. May Case Repository
 
 ## Public Court Filings • Research Materials • Reference Documents
