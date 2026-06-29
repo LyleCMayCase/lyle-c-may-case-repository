@@ -1,62 +1,114 @@
-body {
-    margin: 0;
-    padding: 0;
-    background: #f8f9fb;
-    color: #2b2b2b;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.7;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Lyle C. May Case Repository</title>
 
-.container {
-    max-width: 900px;
-    margin: 60px auto;
-    padding: 40px;
-}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-header {
-    text-align: center;
-    margin-bottom: 60px;
-}
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 
-h1 {
-    font-size: 2.8rem;
-    margin-bottom: 10px;
-    font-family: Georgia, "Times New Roman", serif;
-    color: #1f2937;
-}
+    <link rel="stylesheet" href="style.css">
+</head>
 
-.subtitle {
-    color: #5b6775;
-    font-size: 1.1rem;
-}
+<body>
 
-h2 {
-    margin-top: 50px;
-    color: #1f2937;
-    border-bottom: 2px solid #d9dde3;
-    padding-bottom: 10px;
-}
+<main class="container">
 
-.card {
-    background: white;
-    border: 1px solid #d9dde3;
-    border-radius: 12px;
-    padding: 24px;
-    margin: 20px 0;
-    transition: all .2s ease;
-}
+<header>
 
-.card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0,0,0,.08);
-}
+<h1>The Lyle C. May Case Repository</h1>
 
-.card h3 {
-    margin-top: 0;
-    color: #0f3d75;
-}
+<p class="subtitle">
+Public Court Filings • Research Materials • Reference Documents
+</p>
 
-.card p {
-    margin-bottom: 0;
-    color: #555;
-}
+</header>
+
+<section class="intro">
+
+<h2>About This Repository</h2>
+
+<p>
+
+This repository organizes publicly available court filings,
+research materials, forensic records, and reference documents
+related to the case of Lyle C. May.
+
+Its purpose is to make the public record easier to navigate for
+attorneys, journalists, researchers, educators, students, and
+members of the public.
+
+The documents—not the website—are the focus.
+
+</p>
+
+</section>
+
+<section class="collections">
+
+<a class="card" href="#">
+<span class="number">00</span>
+<h3>READ FIRST</h3>
+<p>Repository orientation and introductory materials.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+<a class="card" href="#">
+<span class="number">01</span>
+<h3>Supplemental Motion</h3>
+<p>Claims, exhibits, supporting authority, and related documents.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+<a class="card" href="#">
+<span class="number">02</span>
+<h3>Source Verification Archive</h3>
+<p>Verification of every source cited throughout the repository.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+<a class="card" href="#">
+<span class="number">03</span>
+<h3>Court Filings</h3>
+<p>Trial records, motions, orders, appellate filings, and opinions.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+<a class="card" href="#">
+<span class="number">04</span>
+<h3>Public Records</h3>
+<p>Government records, reports, correspondence, and public documents.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+<a class="card" href="#">
+<span class="number">05</span>
+<h3>Media</h3>
+<p>News coverage, interviews, publications, and external reporting.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+<a class="card" href="#">
+<span class="number">06</span>
+<h3>Updates</h3>
+<p>Repository additions, revisions, and maintenance log.</p>
+<span class="open">Open Collection →</span>
+</a>
+
+</section>
+
+<footer>
+
+<p>
+© 2026 The Lyle C. May Case Repository
+</p>
+
+</footer>
+
+</main>
+
+</body>
+</html>
