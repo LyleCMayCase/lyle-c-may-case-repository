@@ -18,43 +18,46 @@ body{
 
 .container{
 
-    width:min(980px,90%);
+    width:min(960px,92vw);
 
-    margin:auto;
-
-    padding:80px 0 120px;
+    margin:70px auto;
 
 }
+
 
 header{
 
     text-align:center;
 
-    margin-bottom:80px;
+    padding-bottom:40px;
 
 }
+
 
 h1{
 
     font-family:"Cormorant Garamond",serif;
 
-    font-size:4.3rem;
+    font-size:3.25rem;
 
-    font-weight:600;
+    font-weight:700;
 
-    color:#1a1a1a;
+    color:#1b3556;
+
+    margin-top:18px;
+
+    margin-bottom:12px;
 
     line-height:1.1;
 
 }
-
 .subtitle{
 
-    margin-top:16px;
+    margin-top:10px;
 
     color:#234d7d;
 
-    font-size:.90rem;
+    font-size:.88rem;
 
     text-transform:uppercase;
 
@@ -80,7 +83,7 @@ h1{
 
 .updated{
 
-    margin-top:8px;
+    margin-top:16px;
 
     font-family:"Cormorant Garamond",serif;
 
@@ -94,18 +97,18 @@ h1{
 
 
 
-
 .collections h2{
 
     font-family:"Cormorant Garamond",serif;
 
-    font-size:2.2rem;
-
-    margin-bottom:30px;
+    font-size:2.25rem;
 
     color:#1b3556;
 
+    margin-bottom:22px;
+
 }
+
 
 .card{
 
@@ -115,13 +118,13 @@ h1{
 
     align-items:center;
 
-    gap:40px;
+    gap:28px;
 
     text-decoration:none;
 
     color:inherit;
 
-    padding:30px 36px;
+    padding:32px;
 
     margin-bottom:20px;
 
@@ -163,7 +166,7 @@ h1{
 
     font-family:"Cormorant Garamond",serif;
 
-    font-size:2rem;
+    font-size:1.8rem;
 
     color:#222;
 
@@ -189,11 +192,23 @@ h1{
 
 }
 
+
+.collections p{
+
+    max-width:760px;
+
+    line-height:1.9;
+
+    margin-bottom:18px;
+
+}
+
+
 footer{
 
     margin-top:90px;
 
-    padding-top:35px;
+    padding-top:40px;
 
     border-top:1px solid #e6e6e6;
 
@@ -204,6 +219,9 @@ footer{
     font-size:.9rem;
 
 }
+
+
+
 .footer-note{
 
     margin-top:10px;
@@ -213,6 +231,9 @@ footer{
     letter-spacing:.08em;
 
     color:#8b8b8b;
+
+}
+
 
 .breadcrumb{
 
@@ -249,8 +270,8 @@ footer{
     color:#b6b6b6;
 
 }
-    
-}
+
+
 @media (max-width:700px){
 
 .card{
@@ -283,3 +304,6 @@ border: 0;
 border-top: 1px solid #d9dde5;
 
 }
+
+
+
