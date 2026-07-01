@@ -31,7 +31,8 @@ body{
 
 .container{
 
-    width:min(960px,92vw);
+    width:700px;
+
     margin:70px auto;
 
 }
