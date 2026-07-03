@@ -335,6 +335,21 @@ footer{
 
 }
 
+.document-link{
+
+    color:#234d7d;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+}
+
+.document-link:hover{
+
+    text-decoration:underline;
+
+}
 
 /*==================================================
     RESPONSIVE DESIGN
