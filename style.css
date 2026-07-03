@@ -262,6 +262,25 @@ h1{
 
 }
 
+.card-label{
+
+    font-family:"Inter",sans-serif;
+
+    font-size:.92rem;
+
+    font-weight:700;
+
+    letter-spacing:.02em;
+
+    text-transform:none;
+
+    color:#5f6b7a;
+
+    margin-top:18px;
+
+    margin-bottom:12px;
+
+}
 
 /*==================================================
     LINK BUTTONS
