@@ -17,6 +17,8 @@
 
 
   
+<main class="container">
+
 <p class="breadcrumb">
 
 <a href="index.html">Repository Home</a>
@@ -27,11 +29,11 @@
 
 <span class="separator">›</span>
 
-<a href="sva-statement-of-facts-a-state-bureau-of-investigation.html">Statement of Facts A</a>
+<a href="sva-introduction.html">Introduction</a>
 
 <span class="separator">›</span>
 
-State v. Derrick Allen
+Brady v. Maryland
 
 </p>
 
@@ -48,13 +50,13 @@ Repository Collection 03
 
 <h1>
 
-State v. Derrick Allen
+Brady v. Maryland
 
 </h1>
 
 <p class="subtitle">
 
-Durham County Superior Court, File Nos. 98CRS 55208, 98CRS 7979-7980
+373 U.S. 83 (1963)
 
 </p>
 
@@ -81,15 +83,14 @@ Last Revised • July 4, 2026
 <section class="collections">
 
 <p>
- This court order documents judicial findings regarding forensic reporting practices within the North Carolina State Bureau of Investigation Forensic Biology Section. The Order of Dismissal in State v. Derrick Allen found that laboratory reporting practices concealed favorable forensic evidence and contributed to significant due process concerns, providing judicial support for the allegations discussed throughout Statement of Facts A
+ Brady v. Maryland is a landmark United States Supreme Court decision establishing that the prosecution violates due process when it suppresses material evidence favorable to the accused. The decision forms the constitutional foundation for the prosecution's obligation to disclose exculpatory and impeachment evidence to the defense.
 
 <section>
 
 <h2>Related SMAR Citation</h2>
 
 <p>
-“[State v. Derrick Allen, Durham County Superior Court, File Nos: 98CRS 55208, 98CRS 7979-
-7980; Order of Dismissal]”
+“[See Brady v. Maryland, 373 U.S. 83 (1963)…”
 
 </p>
 
@@ -112,7 +113,7 @@ Last Revised • July 4, 2026
 
 <p>
 
-State v. Derrick Allen
+Brady v. Maryland
 
 </p>
 
@@ -130,7 +131,7 @@ State v. Derrick Allen
 
 <p>
 
-Durham County Superior Court, File Nos. 98CRS 55208, 98CRS 7979-7980
+373 U.S. 83 (1963)
 
 </p>
 
@@ -150,9 +151,8 @@ Durham County Superior Court, File Nos. 98CRS 55208, 98CRS 7979-7980
 
 <p>
 
-December 10, 2010
-</p>
-(Entered March 9, 2011, nunc pro tunc to December 10, 2010)
+May 13, 1963
+
 </p>
 
 </section>
@@ -174,7 +174,7 @@ December 10, 2010
 
 <p>
 
-State v. Derrick Allen Order of Dismissal
+Official United States Supreme Court opinion located through GovInfo.
 
 </p>
 
@@ -196,8 +196,7 @@ State v. Derrick Allen Order of Dismissal
 
 <p>
 
-Order of Dismissal Pursuant to N.C. Gen. Stat. §§ 15A-910 and 15A-954(a)(4) and the United
-States and North Carolina Constitutions
+United States Supreme Court Opinion
 
 </p>
 
@@ -218,7 +217,7 @@ States and North Carolina Constitutions
 
 <p>
 
-1, 27, 29, 37, 44, 45
+83
 
 </p>
 
@@ -239,9 +238,11 @@ States and North Carolina Constitutions
 <section class="collections">
 
 <p>
-Page 13, Paragraph: 15
+Page 6, Paragraph 6
 </p>
-
+Page 47, Paragraph 96
+</p>
+Page 60, Paragraph 123
 
 
 
@@ -259,7 +260,7 @@ Page 13, Paragraph: 15
 
 <p>
 
-✔ Original Order of Dismissal obtained and verified.
+✔ Original United States Supreme Court opinion obtained and reviewed
 <p>
 ✔ Relevant holding highlighted
 <p>
@@ -287,15 +288,14 @@ Page 13, Paragraph: 15
 
 <p>
 
-May's allegation that misleading forensic reporting within the SBI Forensic Biology Section was not
-the result of isolated misconduct by individual analysts, but rather stemmed from an institutional
-policy. The Order of Dismissal in State v. Derrick Allen is cited to establish Judge Hudson's
-findings that Agent Jennifer Elwell's reporting practices were consistent with a designed SBI
-laboratory policy that obscured or failed to clearly report test results favorable to defendants. May
-relies upon these findings to support his claim that the SBI maintained a systemic pro-prosecution
-bias, that favorable forensic evidence was deliberately concealed through laboratory reporting
-practices, and that the credibility of SBI forensic analysts was substantially undermined in criminal
-cases where they testified on behalf of the State.
+May's allegation that widespread misconduct by law enforcement agencies and prosecutors in
+Buncombe County resulted in the suppression of favorable and material evidence, concealed
+information relevant to witness credibility and impeachment, and deprived the Defendant of a fair
+trial. May cites Brady v. Maryland to establish the State's constitutional duty to disclose
+exculpatory and impeachment evidence favorable to the defense. May further relies upon Brady
+as the foundational authority supporting his claim that the cumulative misconduct and
+nondisclosure described throughout the Supplemental MAR violated his due process rights and
+warrant post-conviction relief.
   
 </p>
 
@@ -324,7 +324,7 @@ Link to the original article.
 
 <p>
 
-<a href="https://www.ncids.com/forensic/labs/Allen_Order_of_Dismissal.pdf">
+<a href="https://www.govinfo.gov/app/details/USREPORTS-373/USREPORTS-373-83">
 
 View Website →
 
@@ -344,7 +344,7 @@ Working research copy containing the highlighted passages cited in the Supplemen
 
 <p>
 
-<a href="https://drive.google.com/file/d/1JoXmyPJsFFpkjbeTSd32qpB3WBZewtOQ/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1QyPNhdzphcNqQthSaossQ6yPI2bb67ih/view?usp=drive_link">
 
 View PDF →
 
@@ -369,30 +369,29 @@ View PDF →
   
 <h2>Continue Your Research</h2>
 
-<div class="card">
+<a class="card" href="sva-introduction.html">
 
 <div>
 
-<h3>Return to Statement of Facts A</h3>
+<h3>Return to Introduction</h3>
 
 <p>
 
-Continue browsing the sources cited throughout Statement of Facts A.
+Continue browsing the sources cited in the Introduction to the Supplemental Motion.
 
 </p>
 
 </div>
 
-<a class="open"
-href="sva-statement-of-facts-a-state-bureau-of-investigation.html">
+<span class="open">
 
 Browse Sources →
 
+</span>
+
 </a>
 
-</div>
-
-<div class="card">
+<a class="card" href="03-source-verification-archive.html">
 
 <div>
 
@@ -406,16 +405,16 @@ Return to the main Source Verification Archive and explore additional sections o
 
 </div>
 
-<a class="open"
-href="03-source-verification-archive.html">
+<span class="open">
 
 Browse Archive →
 
+</span>
+
 </a>
 
-</div>
-
 </section>
+
 
 
 
@@ -441,5 +440,3 @@ Publicly Available Documents • Independently Organized for Research and Review
 </main>
 
 </body>
-
-</html>
