@@ -437,3 +437,15 @@ footer{
     }
 
 }
+
+/*==================================================
+    BANNERS
+==================================================*/
+
+.status-banner {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-left: 4px solid #8b0000;
+    background: #f8f8f8;
+    font-weight: 500;
+}
