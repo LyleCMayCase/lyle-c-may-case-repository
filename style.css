@@ -449,3 +449,12 @@ footer{
     background: #f8f8f8;
     font-weight: 500;
 }
+
+.status-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #6b1f2b;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
