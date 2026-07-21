@@ -458,3 +458,14 @@ footer{
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
+
+.update-banner {
+  background: #f8f4f4;
+  border-left: 4px solid #6b1f2a;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.update-banner h2 {
+  margin-top: 0;
+}
